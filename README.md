@@ -1,20 +1,7 @@
-# Odd Fellow mobil landing page
+Denne version bevarer teksten fra v2 og bruger en rigtig PNG-fil til de 3 kædeled.
 
-Denne version er lavet **mobil-først**.
+Indhold:
+- index.html
+- chainlinks.png
 
-## Det du skal rette
-Søg i `index.html` efter disse pladsholdere og erstat dem:
-
-- `INDSÆT TELEFONNUMMER`
-- `+45XXXXXXXX`
-- `INDSÆT MAILADRESSE`
-- `INDSAET-MAIL@EKSEMPEL.DK`
-
-## Hvad der er ændret
-- mobil-først layout
-- store trykflader
-- sticky bundmenu med **Ring** / **Skriv**
-- kortere tekstblokke
-- hurtigere vej til kontakt
-
-Klar til GitHub Pages.
+Brug begge filer sammen i samme mappe/repository.
